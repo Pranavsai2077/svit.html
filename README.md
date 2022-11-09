@@ -1,2 +1,0 @@
-# svit
-Clg website
